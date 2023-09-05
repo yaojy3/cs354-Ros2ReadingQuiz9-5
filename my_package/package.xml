@@ -3,7 +3,7 @@
 <package format="3">
   <name>my_package</name>
   <version>0.0.0</version>
-  <description>Beginner client libraries tutorials practice package/description>
+  <description>Beginner client libraries tutorials practice package HERE IS A CHANGE TO PUSH</description>
   <maintainer email="yaojy@dukes.jmu.edu">Jesse Yao</maintainer>
   <license>Apache License 2.0</license>
 
